@@ -1,1 +1,1 @@
-Projeto de Landing-page da triçha de CSS da DIO.
+Projeto de Landing-page da trilha de CSS da DIO.
